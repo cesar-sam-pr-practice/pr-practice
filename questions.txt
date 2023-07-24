@@ -6,6 +6,6 @@ Question 3: What is your favorite food? Chicharron-Tacos
 
 Question 4: What is your favorite movie? the blind side
 
-Question 5: What is your favorite book?
+Question 5: What is your favorite book? The General and the Jaguar
 
 Question 6: What is your favorite place you've traveled?
